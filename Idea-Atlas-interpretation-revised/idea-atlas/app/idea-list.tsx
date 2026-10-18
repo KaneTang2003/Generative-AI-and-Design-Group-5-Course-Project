@@ -1,0 +1,3 @@
+"use client";
+import {useState,type ReactNode} from "react";
+export default function IdeaList({ids,render}:{ids:string[];render:(id:string)=>ReactNode}){const [page,setPage]=useState(0);const pages=Math.max(1,Math.ceil(ids.length/4));const current=Math.min(page,pages-1);return <>{pages>1&&<div className="idea-pagination"><button className="secondary-button" disabled={!current} onClick={()=>setPage(current-1)}>Previous</button><span>{current+1} / {pages}</span><button className="secondary-button" disabled={current>=pages-1} onClick={()=>setPage(current+1)}>Next</button></div>}<div className="cards">{ids.slice(current*4,(current+1)*4).map(render)}</div></>}

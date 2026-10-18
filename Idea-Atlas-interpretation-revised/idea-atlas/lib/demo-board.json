@@ -1,0 +1,362 @@
+{
+  "ideas": [
+    {
+      "id": "I001",
+      "text": "Put a carbon footprint label on every online shop product",
+      "title": "Carbon footprint labels"
+    },
+    {
+      "id": "I002",
+      "text": "Show the environmental impact of each product before purchase",
+      "title": "Environmental impact"
+    },
+    {
+      "id": "I003",
+      "text": "Offer a discount for shoppers choosing a lower-carbon product",
+      "title": "Green shopping discounts"
+    },
+    {
+      "id": "I004",
+      "text": "Give customers coupons for choosing sustainable products",
+      "title": "Sustainable shopping coupons"
+    },
+    {
+      "id": "I005",
+      "text": "Deliver online orders in electric vans",
+      "title": "Electric delivery vans"
+    },
+    {
+      "id": "I006",
+      "text": "Use cargo bicycles to transport online purchases",
+      "title": "Cargo bicycle delivery"
+    },
+    {
+      "id": "I007",
+      "text": "Let teenagers join a museum advisory panel to shape exhibitions",
+      "title": "Youth advisory panel"
+    },
+    {
+      "id": "I008",
+      "text": "Invite young people to co-design museum exhibits",
+      "title": "Youth exhibition design"
+    },
+    {
+      "id": "I009",
+      "text": "Host late-night music events at the museum",
+      "title": "Museum music nights"
+    },
+    {
+      "id": "I010",
+      "text": "Organize a museum festival with performances",
+      "title": "Museum performances"
+    },
+    {
+      "id": "I011",
+      "text": "Install wheelchair ramps throughout the museum",
+      "title": "Wheelchair ramps"
+    },
+    {
+      "id": "I012",
+      "text": "Make every museum exhibition accessible without stairs",
+      "title": "Step-free exhibitions"
+    },
+    {
+      "id": "I013",
+      "text": "Create a museum lounge where visitors can meet new people",
+      "title": "Museum lounge"
+    },
+    {
+      "id": "I014",
+      "text": "Add museum seating areas intended for social conversations",
+      "title": "Social seating"
+    },
+    {
+      "id": "I015",
+      "text": "Create a weekly study schedule with assignment deadlines",
+      "title": "Study schedule"
+    },
+    {
+      "id": "I016",
+      "text": "Use a calendar to plan exams and study sessions",
+      "title": "Exam calendar"
+    },
+    {
+      "id": "I017",
+      "text": "silent floor where whispering isnt secretly allowed",
+      "title": "Silent floor"
+    },
+    {
+      "id": "I018",
+      "text": "Provide a quiet library study floor without conversations or distractions",
+      "title": "Quiet study space"
+    },
+    {
+      "id": "I019",
+      "text": "Use flashcards to practice vocabulary while studying",
+      "title": "Vocabulary flashcards"
+    },
+    {
+      "id": "I020",
+      "text": "Create digital question cards for exam revision",
+      "title": "Digital revision cards"
+    },
+    {
+      "id": "I021",
+      "text": "Draw concept maps to understand difficult course material",
+      "title": "Concept maps"
+    },
+    {
+      "id": "I022",
+      "text": "Explain a difficult concept aloud to check understanding",
+      "title": "Explain concepts aloud"
+    },
+    {
+      "id": "I023",
+      "text": "Add private sleeping capsules in the airport",
+      "title": "Sleeping capsules"
+    },
+    {
+      "id": "I024",
+      "text": "Create quiet airport booths where travelers can take a nap",
+      "title": "Airport nap booths"
+    },
+    {
+      "id": "I025",
+      "text": "Show flight boarding times on clear airport information screens",
+      "title": "Boarding screens"
+    },
+    {
+      "id": "I026",
+      "text": "Send travelers notifications about boarding and gate changes",
+      "title": "Gate notifications"
+    },
+    {
+      "id": "I027",
+      "text": "Provide airport desks where travelers can work on laptops",
+      "title": "Laptop desks"
+    },
+    {
+      "id": "I028",
+      "text": "Add airport laptop workstations with charging outlets",
+      "title": "Charging workstations"
+    },
+    {
+      "id": "I029",
+      "text": "An airport sleeping capsule with a boarding alarm so you do not miss your flight",
+      "title": "Capsule boarding alarm"
+    },
+    {
+      "id": "I030",
+      "text": "A wheelchair-accessible museum festival with performances",
+      "title": "Accessible museum festival"
+    },
+    {
+      "id": "I031",
+      "text": "A study calendar that schedules distraction-free focus blocks",
+      "title": "Focus calendar"
+    },
+    {
+      "id": "I032",
+      "text": "Build a submarine to explore the Mariana Trench",
+      "title": "Deep-sea submarine"
+    },
+    {
+      "id": "I033",
+      "text": "Provide comfortable ergonomic chairs in library study rooms",
+      "title": "Ergonomic chairs"
+    },
+    {
+      "id": "I034",
+      "text": "Install adjustable chairs for comfortable long study sessions",
+      "title": "Adjustable chairs"
+    }
+  ],
+  "groups": [
+    {
+      "id": "G1",
+      "title": "Environmental Impact and Carbon Footprint Transparency",
+      "explanation": "Ideas focused on informing online shoppers about product emissions and environmental impact prior to purchase.",
+      "ideaIds": [
+        "I001",
+        "I002"
+      ],
+      "themeId": "T1"
+    },
+    {
+      "id": "G2",
+      "title": "Financial Incentives for Sustainable Shopping",
+      "explanation": "Ideas offering monetary rewards, discounts, or coupons to encourage consumers to choose lower-carbon options.",
+      "ideaIds": [
+        "I003",
+        "I004"
+      ],
+      "themeId": "T1"
+    },
+    {
+      "id": "G3",
+      "title": "Eco-Friendly Delivery and Transportation",
+      "explanation": "Ideas proposing zero- or low-emission transport methods for delivering online purchases.",
+      "ideaIds": [
+        "I005",
+        "I006"
+      ],
+      "themeId": "T1"
+    },
+    {
+      "id": "G4",
+      "title": "Youth Participation in Museum Exhibition Design",
+      "explanation": "Ideas centered on involving youth and teenagers in shaping and co-designing museum exhibits.",
+      "ideaIds": [
+        "I007",
+        "I008"
+      ],
+      "themeId": "T2"
+    },
+    {
+      "id": "G5",
+      "title": "Museum Entertainment and Performance Events",
+      "explanation": "Ideas that bring lively performances, music, and festival programming into museum spaces.",
+      "ideaIds": [
+        "I009",
+        "I010",
+        "I030"
+      ],
+      "themeId": "T2"
+    },
+    {
+      "id": "G6",
+      "title": "Museum Physical and Step-Free Accessibility",
+      "explanation": "Ideas aimed at ensuring museum facilities and exhibitions are accessible without stairs and accommodating wheelchair users.",
+      "ideaIds": [
+        "I011",
+        "I012",
+        "I030"
+      ],
+      "themeId": "T2"
+    },
+    {
+      "id": "G7",
+      "title": "Museum Social Interaction Spaces",
+      "explanation": "Ideas creating designated seating and lounge areas to foster conversation and social connection among museum visitors.",
+      "ideaIds": [
+        "I013",
+        "I014"
+      ],
+      "themeId": "T2"
+    },
+    {
+      "id": "G8",
+      "title": "Study Planning and Calendar Scheduling",
+      "explanation": "Ideas addressing the need to schedule study sessions, exams, and assignment deadlines using structured calendars.",
+      "ideaIds": [
+        "I015",
+        "I016",
+        "I031"
+      ],
+      "themeId": "T3"
+    },
+    {
+      "id": "G9",
+      "title": "Silent and Distraction-Free Study Environments",
+      "explanation": "Ideas providing dedicated quiet or silent spaces to minimize interruptions and talking during study sessions.",
+      "ideaIds": [
+        "I017",
+        "I018",
+        "I031"
+      ],
+      "themeId": "T3"
+    },
+    {
+      "id": "G10",
+      "title": "Ergonomic Study Seating",
+      "explanation": "Ideas focused on providing comfortable, adjustable, and ergonomic chairs to support long study sessions.",
+      "ideaIds": [
+        "I033",
+        "I034"
+      ],
+      "themeId": "T3"
+    },
+    {
+      "id": "G11",
+      "title": "Retrieval Practice with Flashcards",
+      "explanation": "Ideas using physical or digital flashcards and question cards for active recall and exam revision.",
+      "ideaIds": [
+        "I019",
+        "I020"
+      ],
+      "themeId": "T3"
+    },
+    {
+      "id": "G12",
+      "title": "Conceptual Comprehension and Elaboration Techniques",
+      "explanation": "Ideas employing visual mapping and self-explanation to deeply understand and master complex learning material.",
+      "ideaIds": [
+        "I021",
+        "I022"
+      ],
+      "themeId": "T3"
+    },
+    {
+      "id": "G13",
+      "title": "Airport Resting and Sleeping Amenities",
+      "explanation": "Ideas providing quiet, dedicated pods, capsules, or booths for travelers needing to sleep or nap at the airport.",
+      "ideaIds": [
+        "I023",
+        "I024",
+        "I029"
+      ],
+      "themeId": "T4"
+    },
+    {
+      "id": "G14",
+      "title": "Flight Boarding and Departure Information",
+      "explanation": "Ideas focused on alerting travelers to boarding times, gate changes, and flight departures through screens, notifications, or alarms.",
+      "ideaIds": [
+        "I025",
+        "I026",
+        "I029"
+      ],
+      "themeId": "T4"
+    },
+    {
+      "id": "G15",
+      "title": "Airport Workstations and Laptop Desks",
+      "explanation": "Ideas providing desks, power outlets, and workspaces for travelers working on laptops in airports.",
+      "ideaIds": [
+        "I027",
+        "I028"
+      ],
+      "themeId": "T4"
+    }
+  ],
+  "outliers": [
+    {
+      "ideaId": "I032",
+      "suggestedGroupId": "G3",
+      "reason": "Idea I032 involves vehicle design and mobility, loosely relating to transportation in G3, but it focuses on deep-sea ocean exploration rather than logistics, e-commerce delivery, or airport transit amenities."
+    }
+  ],
+  "warnings": [],
+  "themes": [
+    {
+      "explanation": "Ideas about the environmental effects of online shopping.",
+      "title": "Sustainable shopping",
+      "id": "T1"
+    },
+    {
+      "explanation": "Different needs within museum visits and participation.",
+      "title": "Museum experiences",
+      "id": "T2"
+    },
+    {
+      "explanation": "Separate needs supporting effective study.",
+      "title": "Studying",
+      "id": "T3"
+    },
+    {
+      "explanation": "Ideas about rest, information and work during travel.",
+      "title": "Airport experiences",
+      "id": "T4"
+    }
+  ]
+}

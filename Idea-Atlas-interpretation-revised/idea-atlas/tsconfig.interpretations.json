@@ -1,0 +1,10 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": { "incremental": false },
+  "include": [
+    "lib/clustering.ts", "lib/ideas.ts", "lib/export-board.ts",
+    "app/api/cluster/route.ts", "app/page.tsx",
+    "app/network-board.tsx", "app/interpretation-details.tsx"
+  ],
+  "exclude": ["node_modules", "examples"]
+}
